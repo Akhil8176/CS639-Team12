@@ -1,1 +1,47 @@
 "*.DAT" 
+# Ignore Windows system files
+NTUSER.DAT
+NTUSER.DAT*
+ntuser.dat.LOG*
+ntuser.ini
+
+# Ignore personal directories
+AppData/
+Contacts/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+Saved Games/
+Searches/
+Tracing/
+Videos/
+
+# Ignore IDE, software and dev tools directories
+.VirtualBox/
+.anaconda/
+.android/
+.appletviewer/
+.cache/
+.conda/
+.condarc
+.continuum/
+.eclipse/
+.emulator_console_auth_token
+.gradle/
+.lesshst
+.m2/
+.nbi/
+.p2/
+3D Objects/
+AndroidStudioProjects/
+BullseyeCoverageError.txt
+IntelGraphicsProfiles/
+VirtualBox VMs/
+anaconda3/
+eclipse-workspace/
+eclipse/
+
+# Ignore any specific folders for your project
+cs639/

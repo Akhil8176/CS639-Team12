@@ -1,47 +1,33 @@
-# Ignore all .DAT files
-*.DAT
-
-# Ignore Windows system files
-ntuser.dat.LOG*
-ntuser.ini
-
-# Ignore personal directories
-AppData/
-Contacts/
-Downloads/
-Favorites/
-Links/
-Music/
-OneDrive/
-Saved Games/
-Searches/
-Tracing/
-Videos/
-
-# Ignore IDE, software, and dev tools directories
-.VirtualBox/
-.anaconda/
-.android/
-.appletviewer/
-.cache/
-.conda/
-.condarc
-.continuum/
-.eclipse/
-.emulator_console_auth_token
+# Gradle files
 .gradle/
-.lesshst
-.m2/
-.nbi/
-.p2/
-3D Objects/
-AndroidStudioProjects/
-BullseyeCoverageError.txt
-IntelGraphicsProfiles/
-VirtualBox VMs/
-anaconda3/
-eclipse-workspace/
-eclipse/
+build/
 
-# Ignore any specific folders for your project
-cs639/
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/OS Files
+*.log
+
+# Android Studio generated files and folders
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+output.json
+
+# IntelliJ
+*.iml
+.idea/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Android Profiling
+*.hprof

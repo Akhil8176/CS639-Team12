@@ -1,7 +1,7 @@
-"*.DAT" 
+# Ignore all .DAT files
+*.DAT
+
 # Ignore Windows system files
-NTUSER.DAT
-NTUSER.DAT*
 ntuser.dat.LOG*
 ntuser.ini
 
@@ -18,7 +18,7 @@ Searches/
 Tracing/
 Videos/
 
-# Ignore IDE, software and dev tools directories
+# Ignore IDE, software, and dev tools directories
 .VirtualBox/
 .anaconda/
 .android/

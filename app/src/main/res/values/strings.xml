@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">saikirannunna</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Biograph</string>
+    <string name="second_fragment_label">Hobbies</string>
+    <string name="Third_fragment_label">Contact</string>
+    <string name="next">hobbies</string>
+    <string name="previous">Back</string>
+
+
+    <string name="AboutMe">
+         my name is sai kiran nunna.I am a masters student in computer science in pace university.Iam from india.I have done my undergraduate at vignan university
+
+    </string>
+
+    <string name="hobbies">
+        my hobbies are biking and travelling
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="contact">
+        my contact info : 9999900000
+    </string>
+</resources>

@@ -15,17 +15,23 @@ Practical tips to establish healthier bedtime routines.
 Actionable Insights
 Easy-to-understand insights into your sleep habits.
 Suggestions to optimize rest and boost energy levels.
+
+
 How It Works
 Sign Up: Create an account using an email and password or sign in with Google.
 Input Preferences: Share details about your sleep goals and routines.
 Receive Recommendations: Follow personalized plans to enhance sleep quality.
 Use the Alarm: Optimize your mornings with a tailored smart alarm clock.
+
+
 Technical Overview
 Frontend: Built with Kotlin to deliver a smooth and user-friendly experience.
 Backend:
 Firebase Authentication for secure user login.
 Firestore for storing user data and preferences.
 Architecture: Developed with Jetpack Compose for a clean, modern UI.
+
+
 Why Choose Sleep Optimization Coach?
 The Sleep Optimization Coach app offers a simple and effective way to achieve better sleep. Whether you're looking to establish a healthier bedtime routine or optimize your wake-up experience, this app provides tailored solutions to fit your needs. With its thoughtful features and focus on user well-being, the app is an essential companion for anyone seeking improved rest and rejuvenation.
 

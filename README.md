@@ -19,16 +19,21 @@ Suggestions to optimize rest and boost energy levels.
 
 How It Works
 Sign Up: Create an account using an email and password or sign in with Google.
+
 Input Preferences: Share details about your sleep goals and routines.
+
 Receive Recommendations: Follow personalized plans to enhance sleep quality.
+
 Use the Alarm: Optimize your mornings with a tailored smart alarm clock.
 
 
 Technical Overview
 Frontend: Built with Kotlin to deliver a smooth and user-friendly experience.
+
 Backend:
 Firebase Authentication for secure user login.
 Firestore for storing user data and preferences.
+
 Architecture: Developed with Jetpack Compose for a clean, modern UI.
 
 

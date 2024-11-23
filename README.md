@@ -41,4 +41,5 @@ Technical Overview
 **Architecture**: Jetpack Compose 
 
 Why Choose Sleep Optimization Coach?
+
 The Sleep Optimization Coach app is tailored for anyone seeking to improve their sleep quality and overall health. By relying on simple user inputs instead of complex tracking, the app ensures ease of use and accessibility while still providing valuable insights. Its user-centric features, intuitive design, and actionable advice make it an ideal companion for building better sleep habits and enhancing daily energy levels.

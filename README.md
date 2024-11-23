@@ -26,9 +26,13 @@ Daily and weekly summaries with advice for improving sleep hygiene.
  Progress tracking to monitor changes in sleep habits over time.
  
 •	How It Works
+
         1. **Sign Up**: Create an account using an email and password or sign in with Google.
+        
         2. **Input Data**: Provide simple details about your sleep schedule and habits.
+        
         3. **Get Insights**: View recommendations and tips based on your data.
+        
         4. **Improve Sleep**: Follow tailored plans to enhance sleep quality.
         
 Technical Overview

@@ -26,7 +26,7 @@ Provide actionable advice and tips based on user input.
 Daily and weekly summaries with advice for improving sleep hygiene.
  Progress tracking to monitor changes in sleep habits over time.
  
-•	**How It Works**
+**How It Works**
 
 Sign Up: Create an account using an email and password or sign in with Google.
         

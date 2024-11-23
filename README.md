@@ -3,11 +3,12 @@ Team Members:
 2.	Satvika Muthyala 
 3.	Sai kiran Nunna
    
-Ideal Proposal:
+**Ideal Proposal**
+
 Sleep Optimization Coach App Proposal
 The Sleep Optimization Coach app is a comprehensive mobile application designed to help users enhance their sleep quality through personalized insights and actionable recommendations. By leveraging user-provided data and a simple, user-friendly interface, the app empowers individuals to establish healthier sleep habits and improve their overall well-being.
 
-Key Features
+**Key Features**
 
 •	Smart Alarm Clock
        Gradual wake-up sounds to align with the user’s natural sleep cycles.
@@ -25,7 +26,7 @@ Provide actionable advice and tips based on user input.
 Daily and weekly summaries with advice for improving sleep hygiene.
  Progress tracking to monitor changes in sleep habits over time.
  
-•	How It Works
+•	**How It Works**
 
 Sign Up: Create an account using an email and password or sign in with Google.
         
@@ -35,7 +36,8 @@ Get Insights: View recommendations and tips based on your data.
         
 Improve Sleep: Follow tailored plans to enhance sleep quality.
         
-Technical Overview
+**Technical Overview**
+
 Frontend: Kotlin
 
 Backend: Firebase Authentication and fire Store

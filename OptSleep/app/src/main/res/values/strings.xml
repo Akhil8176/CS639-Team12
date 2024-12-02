@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Opt Sleep</string>
+    <string name="google_app_id">400183840351-dmu196b764op1c4oc8u3bsile457nkak.apps.googleusercontent.com</string>
+    <string name="fetch_sleep_data">Fetch Sleep Data</string>
+</resources>

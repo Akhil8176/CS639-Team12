@@ -1,6 +1,6 @@
 Team Members:
 1.	Akhil Yadati 
-2.	Satvika Muthyala 
+2.	Sathvika Muthyala 
 3.	Sai kiran Nunna
    
 **Ideal Proposal**

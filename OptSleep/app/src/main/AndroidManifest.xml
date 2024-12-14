@@ -20,6 +20,7 @@
         <meta-data
             android:name="com.google.android.gms.fitness.APP_ID"
             android:value="@string/google_app_id" />
+        <activity android:name=".SmartAlarmActivity"></activity>
         <activity android:name=".LoginActivity"></activity>
         <activity
             android:name=".MainActivity"

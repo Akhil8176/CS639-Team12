@@ -10,4 +10,7 @@
     <string name="sleep_score">Sleep Score:</string>
     <string name="recommendations">Recommendations:</string>
     <string name="smart_alarm">Smart Alarm</string>
+    <string name="total_sleep_data">Total Sleep Data</string>
+    <string name="set_alaram">SET ALARAM</string>
+    <string name="refetch">REFETCH</string>
 </resources>

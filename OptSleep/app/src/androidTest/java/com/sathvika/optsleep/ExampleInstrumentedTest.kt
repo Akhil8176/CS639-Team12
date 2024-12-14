@@ -1,13 +1,12 @@
 package com.sathvika.optsleep
 
-import androidx.test.platform.app.InstrumentationRegistry // Fixed import
-import androidx.test.ext.junit.runners.AndroidJUnit4 // Fixed import
+import androidx.test.platform.app.InstrumentationRegistry
+import androidx.test.ext.junit.runners.AndroidJUnit4
 
 import org.junit.Test
-
 import org.junit.runner.RunWith
 
-import org.junit.Assert.assertEquals // Fixed wildcard import
+import org.junit.Assert.*
 
 /**
  * Instrumented test, which will execute on an Android device.

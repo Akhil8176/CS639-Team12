@@ -1,5 +1,8 @@
+@file:Suppress("DEPRECATION")
+
 package com.sathvika.optsleep
 
+import android.annotation.SuppressLint
 import android.content.ContentValues.TAG
 import android.content.Intent
 import android.os.Bundle
@@ -87,6 +90,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+    @SuppressLint("SetTextI18n")
     private fun updateUI(totalSleepTime: Long, sleepScore: Int) {
         val hours = TimeUnit.MILLISECONDS.toHours(totalSleepTime)
         tvSleepData.text = "Total Sleep: $hours hours"

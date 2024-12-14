@@ -1,7 +1,8 @@
+@file:Suppress("DEPRECATION")
+
 package com.sathvika.optsleep
 
 import android.content.Intent
-
 import android.os.Bundle
 import android.util.Log
 import android.widget.Button
@@ -62,7 +63,7 @@ class LoginActivity : AppCompatActivity() {
 
         com.google.android.gms.fitness.Fitness.getHistoryClient(
             this,
-            com.google.android.gms.auth.api.signin.GoogleSignIn.getLastSignedInAccount(this)!!
+            GoogleSignIn.getLastSignedInAccount(this)!!
         )
             .readData(readRequest)
             .addOnSuccessListener { response ->

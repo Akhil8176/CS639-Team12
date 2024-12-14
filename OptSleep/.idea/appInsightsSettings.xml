@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.sathvika.optsleep" />
+                  <option name="mobileSdkAppId" value="1:851745515775:android:ffcec26991a304bd3904ca" />
+                  <option name="projectId" value="opt-sleep" />
+                  <option name="projectNumber" value="851745515775" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
